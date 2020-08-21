@@ -1,0 +1,12 @@
+{
+  "name": "02-grid-system",
+  "version": "1.0.0",
+  "description": "Grid System in bootstrap",
+  "main": "index.js",
+  "author": "Richard Vu",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1"
+  }
+}
