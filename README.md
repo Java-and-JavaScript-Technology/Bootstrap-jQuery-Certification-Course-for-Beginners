@@ -1,7 +1,7 @@
 # Bootstrap-jQuery-Certification-Course-for-Beginners
 Bootstrap &amp; jQuery - Certification Course for Beginners
 
-/**
+
  * Nickname: Richard
  * Email: richardvu.work@gmail.com
  * Skype: luongvu.work@gmail.com
