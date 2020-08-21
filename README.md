@@ -9,4 +9,3 @@ Bootstrap &amp; jQuery - Certification Course for Beginners
  * Country: Viet Nam
  * Year: 2020
  * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER
- */
